@@ -1,1 +1,5 @@
-ginny_invitation.rb
+name = "Ginny"
+day = "Sunday"
+date = "17th"
+year = "1998"
+puts invitation = "The family of #{name.upcase.capitalize} proudly invite you to their graduation commencement on #{day.to_i} the #{date.to_i} of May #{year}. Festivities will be held at The Burrow. See you then!"
